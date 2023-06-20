@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T02:13:41.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="WFbOhBEOrW2bf-GGySqr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T02:16:18.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vwgO_iFMUl6eiY_jDaXh" version="21.5.0" type="github">
   <diagram name="Página-1" id="tetJ8mpmxvJ5YdXwv8kH">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="byYIrUsW221V76HSvdkK-1" value="Ventas" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="byYIrUsW221V76HSvdkK-2" value="Compras" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
